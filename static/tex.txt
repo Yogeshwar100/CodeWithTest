@@ -5,3 +5,4 @@ How was the day?
 All are ok?
 I think so.
 Yes I am lucky.
+Added new line.
